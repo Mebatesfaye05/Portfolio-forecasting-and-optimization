@@ -28,6 +28,28 @@ This code uses the yfinance library to retrieve historical stock data for Apple 
   </tr>
  </table>
  
+### Correlation: 
+
+ <table>
+  <tr>
+    <td>
+      <img src=
+ <table>
+  <tr>
+    <td>
+      <img src="https://github.com/Mebatesfaye05/Portfolio-forecasting-and-optimization/blob/main/png/Correlation%20matrixs%20graph.png" width ="400"
+      height=""200">
+    </td>
+    <td>
+    </td>
+  </tr>
+ </table> width ="400"
+      height=""200">
+    </td>
+    <td>
+    </td>
+  </tr>
+ </table>
  
 Code description
 Libraries
