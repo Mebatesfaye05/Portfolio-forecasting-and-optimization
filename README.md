@@ -7,8 +7,8 @@ This code uses the yfinance library to retrieve historical stock data for Apple 
 <table>
   <tr>
     <td>
-      <img src="https://github.com/Mebatesfaye05/Portfolio-forecasting-and-optimization/blob/main/png/Dashboard.png" width ="800"
-      height=""400">
+      <img src="https://github.com/Mebatesfaye05/Portfolio-forecasting-and-optimization/blob/main/png/Dashboard.png" width ="400"
+      height=""200">
     </td>
     <td>
     </td>
