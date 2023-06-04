@@ -43,8 +43,6 @@ This code uses the yfinance library to retrieve historical stock data for Apple 
     <td>
     </td>
   </tr>
- </table> width ="400"
-      height=""200">
     </td>
     <td>
     </td>
